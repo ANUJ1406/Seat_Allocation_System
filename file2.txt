@@ -1,0 +1,4 @@
+CSE 0
+MECH 1
+ECE 2
+CIVIL 3
